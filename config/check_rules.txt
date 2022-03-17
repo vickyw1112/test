@@ -1,0 +1,1 @@
+misra_c_2012/rule_5_1 { "case-sensitive": false, "limit": 6 }
